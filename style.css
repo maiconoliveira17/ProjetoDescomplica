@@ -1,0 +1,18 @@
+.carousel img{
+    height: 550px;
+}
+
+#quemSomos img{
+    width: 400px;
+    height: 400px;
+}
+section p{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#btnTopo{
+    text-decoration: none;
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
